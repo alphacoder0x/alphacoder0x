@@ -12,9 +12,9 @@
 <p align="center">
   <a href="https://github.com/alphacoder0x"><img src="https://img.shields.io/badge/GitHub-alphacoder0x-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0D1117" alt="GitHub" /></a>
   <!-- Replace YOUR_LINKEDIN_HANDLE, or delete this line -->
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0D1117" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/tarun-kumar-aa1461246"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0D1117" alt="LinkedIn" /></a>
   <!-- Replace YOUR_EMAIL, or delete this line -->
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Say%20hi-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0D1117" alt="Email" /></a>
+  <a href="mailto:tarunkumar827984@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0D1117" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=alphacoder0x&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
