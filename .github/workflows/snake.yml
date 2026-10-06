@@ -19,6 +19,8 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Personal token so the snake can see your private contributions too
+          github_token: ${{ secrets.SNAKE_TOKEN }}
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#22D3EE&color_dots=#161B22,#0E3A44,#0E6A7A,#14A3B8,#22D3EE
 
